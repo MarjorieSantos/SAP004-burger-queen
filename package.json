@@ -37,5 +37,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- [1. Introdução](#1-introdução)\r - [2. Wonderland Burger](#2-Wonderland-Burger)\r - [3. Desevolvimento](#3-desenvolvimento)\r - [3.1 Prototipação e Layout](#31-prototipação-e-Layout)\r - [3.2 Funcionalidades](#32-funcionalidades)\r - [3.3 Scripts](#33-scripts)\r - [4. Considerações técnicas](#4-considerações-técnicas)\r - [5. Autoras](#5-autoras)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarjorieSantos/SAP004-wonderland-burger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarjorieSantos/SAP004-wonderland-burger/issues"
+  },
+  "homepage": "https://github.com/MarjorieSantos/SAP004-wonderland-burger#readme"
 }
